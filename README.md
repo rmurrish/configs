@@ -1,2 +1,2 @@
 # configs
-Various configurations, too smooth new installs
+Various configurations, to smooth new installs
