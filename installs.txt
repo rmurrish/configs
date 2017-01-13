@@ -1,0 +1,16 @@
+update
+
+tmux
+gparted
+
+#if dev machine
+python-pil
+
+#pip
+scipy
+
+
+#if ML device
+torch
+cudnn
+tensorflow
