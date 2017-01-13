@@ -5,9 +5,16 @@ upgrade
 tmux
 gparted
 vlc
+w3m
 
 #if dev machine
-python-pil
+python-pip
+pip install --upgrade pip
+pip install virtualenv
+sudo add-apt-repository ppa:thomas-schiex/blender
+sudo adduser <user> video
+sudo adduser <user> dialout
+
 
 #pip
 scipy
