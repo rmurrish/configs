@@ -6,6 +6,9 @@ tmux
 gparted
 vlc
 w3m
+gimp
+audacity
+openshot
 
 #if dev machine
 python-pip
@@ -14,6 +17,8 @@ pip install virtualenv
 sudo add-apt-repository ppa:thomas-schiex/blender
 sudo adduser <user> video
 sudo adduser <user> dialout
+arduino
+
 
 
 #pip
