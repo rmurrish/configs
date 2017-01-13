@@ -1,7 +1,10 @@
 update
+upgrade
 
+#almost always software
 tmux
 gparted
+vlc
 
 #if dev machine
 python-pil
@@ -14,3 +17,8 @@ scipy
 torch
 cudnn
 tensorflow
+
+#if laptop
+mouse > Natural scrolling = false
+color management
+bluetooth off
