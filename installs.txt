@@ -18,7 +18,7 @@ sudo add-apt-repository ppa:thomas-schiex/blender
 sudo adduser <user> video
 sudo adduser <user> dialout
 arduino
-
+socat
 
 
 #pip
