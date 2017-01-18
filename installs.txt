@@ -34,3 +34,6 @@ tensorflow
 mouse > Natural scrolling = false
 color management
 bluetooth off
+
+
+gsettings set org.gnome.desktop.media-handling automount-open false
